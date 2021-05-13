@@ -8,3 +8,5 @@ It is a responsive dummy website completely made with HTML5, CSS, JavaScript.
 
 
 ![image](https://user-images.githubusercontent.com/73077868/118173116-cc1d8b80-b44a-11eb-9c67-908eb3078738.png)
+
+![image](https://user-images.githubusercontent.com/73077868/118173259-f7a07600-b44a-11eb-9c0f-ad2ce82c3c2b.png)
